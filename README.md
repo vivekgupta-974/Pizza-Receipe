@@ -1,6 +1,6 @@
 # neapolitan-pizza-dough
 The receipe for making great pizza
-![](https://i.imgur.com/dlZN7VX.png)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6p_QQUjE6zn1R3n75wEJ73wsy4t348HdBpA&usqp=CAU)
 
 ## Ingredients for 4 pizzas
 - 707 g of flour
@@ -22,14 +22,12 @@ time and keep kneading it until smooth. This is to make the dough as fluffy and 
 The kneading could easily take 20-30 min. 
 
 When the bouncy and light dough is ready, let it rest for 2h at room temperature. 
-![](https://github.com/basiliski/neapolitan-pizza-dough/blob/main/pics/1.jpg)
+
 After that shape the dough into doughballs that are best when kept at a fridgerator for overnight. Cover the balls with wrapping and olive oil
 to prevent them from drying.
-![](https://github.com/basiliski/neapolitan-pizza-dough/blob/main/pics/2.jpg)
-![](https://github.com/basiliski/neapolitan-pizza-dough/blob/main/pics/3.jpg)
+
 When taken out of the fridge the doughballs should rest an other two hours at room temperature, they are then ready
 to be shaped into pizzas. This process is something you should watch a video about, remember not to flatten the edges
 of the airy dough. :)
-![](https://github.com/basiliski/neapolitan-pizza-dough/blob/main/pics/4.jpg)
-![](https://github.com/basiliski/neapolitan-pizza-dough/blob/main/pics/5.jpg)
+
 When cooking the pizzas, the hotter the better! 
