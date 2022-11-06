@@ -7,8 +7,6 @@ The receipe for making great pizza
 - 429 g of water
 - 1.8 g of fresh yeast
 - 14.1 g of salt
-- 100 g cheese 
-- 100 g vegies 
 
 In addition, one doughball needs about 1 dl of water, a pinch of yeast, a bit bigger pinch of salt and flour
 until the dough doesn't stick on the bowl.
